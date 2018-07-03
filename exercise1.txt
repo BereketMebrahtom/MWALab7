@@ -1,0 +1,14 @@
+Library
+  {
+  Title:"titlename"
+  authors: ["firstname", "lastname"],
+	ISBN: "000-0-00-0000-0",
+	keyword: {"w1"},
+	borrowedDate:new Date("yyyy/mm/dd"),
+	dueDate:new Date("yyyy/mm/dd"),
+        isborrowed:{true,false}
+	student:{
+		"name":"studentfullname",
+                 "id":"idnumber"
+                 }
+     }
